@@ -14,7 +14,7 @@
           "servicePath": "/",
           "uploadType": "image",
           "imageInfo": {
-            "imageUrl": "ccr.ccs.tencentyun.com/tcbimages/nextcloud:21"
+            "imageUrl": "ccr.ccs.tencentyun.com/tcbimages/nextcloud:21.1"
           },
           "containerPort": 80,
           "customLogs": "stdout,/dev/stdout,/dev/stderr",
