@@ -10,7 +10,6 @@
           "serviceName": "nextcloud",
           "cpu": 2,
           "mem": 4,
-          "initialDelaySeconds": 1000,
           "servicePath": "/",
           "uploadType": "image",
           "imageInfo": {
