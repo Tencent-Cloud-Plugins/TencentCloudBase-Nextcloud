@@ -8,8 +8,8 @@
         "use": "@cloudbase/framework-plugin-container",
         "inputs": {
           "serviceName": "nextcloud",
-          "cpu": 1,
-          "mem": 2,
+          "cpu": 2,
+          "mem": 4,
           "initialDelaySeconds": 1000,
           "servicePath": "/",
           "uploadType": "image",
